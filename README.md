@@ -109,6 +109,12 @@ The application predicts:
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Live Application:** https://student-dropout-prediction-varshini-vasudevan.streamlit.app/
+
+---
+
 ## 📂 Project Structure
 
 ```text
